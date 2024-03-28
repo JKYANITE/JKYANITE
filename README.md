@@ -12,5 +12,5 @@
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aqiskit"><img alt="Qiskit" src="https://img.shields.io/badge/Qiskit-%236929C4.svg?logo=Qiskit&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Atex"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AR"><img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AR"><img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?logo=r&logoColor=white"></a>
 </p>
